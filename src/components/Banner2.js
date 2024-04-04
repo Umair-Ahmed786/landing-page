@@ -59,7 +59,7 @@ export default function Banner2() {
                         <p style={{ paddingTop: '0.5rem' }}>ExpressVPN works with just about everything. Install the app <br /> on all your devices and enjoy up to eight simultaneous <br /> connections with one subscription.</p>
 
                         <button className="btn">
-                            <img src={logo} alt="logo" />
+                            <img src={logo} className="img-fluid" alt="logo" />
                             <a href="" style={{ textDecoration: 'underline', color: 'green', display: 'block', textAlign: 'left' }}> See all apps &gt;</a>
                         </button>
 
