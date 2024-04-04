@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 export default function Banner() {
   return (
     <>
-      <div className="container-fluid banner_section text-center" style={{border: '2px solid black'}}>
+      <div className="container-fluid banner_section text-center">
         {/* <div className="container-fluid inside_banner text-center"> */}
 
         <Navbar />
